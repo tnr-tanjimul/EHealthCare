@@ -1,0 +1,191 @@
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\bin\Debug\EHealthCare.pdb
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\bin\Debug\XanderUI.dll
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Login.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csprojAssemblyReference.cache
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\bin\Debug\EHealthCare.pdb
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\bin\Debug\XanderUI.dll
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csprojAssemblyReference.cache
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Login.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project_V2.1\EHealthCare_v1.3\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\MySql.Data.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\Google.Protobuf.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\BouncyCastle.Crypto.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\Renci.SshNet.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\MySql.Data.xml
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Login.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.pdb
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\MySql.Data.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\Google.Protobuf.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\BouncyCastle.Crypto.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\Renci.SshNet.dll
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\MySql.Data.xml
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csprojAssemblyReference.cache
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Login.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+E:\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7 - Copy\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\EHealthCare.pdb
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\MySql.Data.dll
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\Google.Protobuf.dll
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\BouncyCastle.Crypto.dll
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\Renci.SshNet.dll
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\bin\Debug\MySql.Data.xml
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csprojAssemblyReference.cache
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Login.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientAddUpdatePage.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientPage.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+D:\C_Sharp_All_project\C_Sharp_All_project\Project__EheakthCare\EHealthCare_v1.7\EHealthCare_v1.7\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\EHealthCare.pdb
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\MySql.Data.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\Google.Protobuf.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\Zstandard.Net.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\BouncyCastle.Crypto.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\Ubiety.Dns.Core.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\Renci.SshNet.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\System.Buffers.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\K4os.Compression.LZ4.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\K4os.Hash.xxHash.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\System.Memory.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\System.Numerics.Vectors.dll
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\bin\Debug\MySql.Data.xml
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csprojAssemblyReference.cache
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe.config
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.AppointmentPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientAddUpdatePage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PrescriptionPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.UserType.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientLogin.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorLogin.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientDashboard.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientRegistration.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.AppointmentAdd.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.MedicalHistoryPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.BPRecordPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.FeverReordPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe.config
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\EHealthCare.exe
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\EHealthCare.pdb
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\Google.Protobuf.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\Zstandard.Net.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\BouncyCastle.Crypto.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\Ubiety.Dns.Core.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\Renci.SshNet.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\System.Buffers.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\K4os.Compression.LZ4.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\K4os.Hash.xxHash.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\System.Memory.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\System.Numerics.Vectors.dll
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\bin\Debug\MySql.Data.xml
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe.config
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.Properties.Resources.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.AppointmentAdd.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.AppointmentPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.BPRecordPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.FeverReordPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.MedicalHistoryPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientRegistration.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientDashboard.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorDashboard.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorHome.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorRegistration.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.Loading.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.UserType.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientLogin.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.DoctorLogin.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.OTP.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientAddUpdatePage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PatientPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.PrescriptionPage.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.UI_Layer.SplashScreen.resources
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.GenerateResource.cache
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CoreCompileInputs.cache
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.CopyComplete
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.exe
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.pdb
+D:\OOP2-Project\EHealthCare\EHealthCare-10-30AM\EHealthCare\EHealthCare\obj\Debug\EHealthCare.csproj.AssemblyReference.cache

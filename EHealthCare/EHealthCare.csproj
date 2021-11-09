@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF284AAB-D6F6-4072-8D70-086F9A221EED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EHealthCare</RootNamespace>
+    <AssemblyName>EHealthCare</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\tanji\Downloads\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.20.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XanderUI">
+      <HintPath>C:\Users\tanji\Downloads\csharpui.comXanderUI_DLL\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\Appoinment.cs" />
+    <Compile Include="Entities\BpRecord.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Entities\Doctors.cs" />
+    <Compile Include="Entities\FeverRecord.cs" />
+    <Compile Include="Entities\MedicalHistory.cs" />
+    <Compile Include="Entities\Patient.cs" />
+    <Compile Include="Entities\Prescription.cs" />
+    <Compile Include="Entities\PrescriptionRecord.cs" />
+    <Compile Include="Interfaces\IRecord.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\IPatient.cs" />
+    <Compile Include="Library\SMSSender.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\AppointmentRepository.cs" />
+    <Compile Include="Repository\BPRecordRepository.cs" />
+    <Compile Include="Repository\DataAccess.cs" />
+    <Compile Include="Repository\DoctorRepository.cs" />
+    <Compile Include="Repository\FeverRecordRepository.cs" />
+    <Compile Include="Repository\LoginRepository.cs" />
+    <Compile Include="Repository\MedicalHistoryRepository.cs" />
+    <Compile Include="Repository\PatientRepository.cs" />
+    <Compile Include="Repository\PrescriptionRecordRepository.cs" />
+    <Compile Include="Repository\PrescriptionRepository.cs" />
+    <Compile Include="Repository\RegistrationRepository.cs" />
+    <Compile Include="Services\AppointmentService.cs" />
+    <Compile Include="Services\BPRecordService.cs" />
+    <Compile Include="Services\DoctorService.cs" />
+    <Compile Include="Services\FeverRecordService.cs" />
+    <Compile Include="Services\LoginService.cs" />
+    <Compile Include="Services\MedicalHistoryService.cs" />
+    <Compile Include="Services\OtpServices.cs" />
+    <Compile Include="Services\PatientService.cs" />
+    <Compile Include="Services\PrescriptionRecordService.cs" />
+    <Compile Include="Services\PrescriptionService.cs" />
+    <Compile Include="Services\RegistrationService.cs" />
+    <Compile Include="UI Layer\AppointmentAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\AppointmentAdd.Designer.cs">
+      <DependentUpon>AppointmentAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\AppointmentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\AppointmentPage.Designer.cs">
+      <DependentUpon>AppointmentPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\BPRecordPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\BPRecordPage.Designer.cs">
+      <DependentUpon>BPRecordPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\FeverReordPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\FeverReordPage.Designer.cs">
+      <DependentUpon>FeverReordPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\MedicalHistoryPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\MedicalHistoryPage.Designer.cs">
+      <DependentUpon>MedicalHistoryPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\PatientRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\PatientRegistration.Designer.cs">
+      <DependentUpon>PatientRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\PatientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\PatientDashboard.Designer.cs">
+      <DependentUpon>PatientDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\DoctorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\DoctorDashboard.Designer.cs">
+      <DependentUpon>DoctorDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\DoctorHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\DoctorHome.Designer.cs">
+      <DependentUpon>DoctorHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\DoctorRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\DoctorRegistration.Designer.cs">
+      <DependentUpon>DoctorRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\UserType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\UserType.Designer.cs">
+      <DependentUpon>UserType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\PatientLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\PatientLogin.Designer.cs">
+      <DependentUpon>PatientLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\DoctorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\DoctorLogin.Designer.cs">
+      <DependentUpon>DoctorLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\OTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\OTP.Designer.cs">
+      <DependentUpon>OTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\PatientAddUpdatePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\PatientAddUpdatePage.Designer.cs">
+      <DependentUpon>PatientAddUpdatePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\PatientPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\PatientPage.Designer.cs">
+      <DependentUpon>PatientPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\PrescriptionPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\PrescriptionPage.Designer.cs">
+      <DependentUpon>PrescriptionPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Layer\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI Layer\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI Layer\AppointmentAdd.resx">
+      <DependentUpon>AppointmentAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\AppointmentPage.resx">
+      <DependentUpon>AppointmentPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\BPRecordPage.resx">
+      <DependentUpon>BPRecordPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\FeverReordPage.resx">
+      <DependentUpon>FeverReordPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\MedicalHistoryPage.resx">
+      <DependentUpon>MedicalHistoryPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\PatientRegistration.resx">
+      <DependentUpon>PatientRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\PatientDashboard.resx">
+      <DependentUpon>PatientDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\DoctorDashboard.resx">
+      <DependentUpon>DoctorDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\DoctorHome.resx">
+      <DependentUpon>DoctorHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\DoctorRegistration.resx">
+      <DependentUpon>DoctorRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\UserType.resx">
+      <DependentUpon>UserType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\PatientLogin.resx">
+      <DependentUpon>PatientLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\DoctorLogin.resx">
+      <DependentUpon>DoctorLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\OTP.resx">
+      <DependentUpon>OTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\PatientAddUpdatePage.resx">
+      <DependentUpon>PatientAddUpdatePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\PatientPage.resx">
+      <DependentUpon>PatientPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\PrescriptionPage.resx">
+      <DependentUpon>PrescriptionPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI Layer\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_main3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splash_screen1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_delete_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_window_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restore_window_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_page_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_page_3nn2px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appointments_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patients_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prescription_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone-simple-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stay_home.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activity_history_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activity_history_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop_of_blood_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thermometer_32px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
